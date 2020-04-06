@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  ☕ Code and coffee
+  🚀 Semana OmniStack 9.0
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
@@ -69,4 +69,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Rocketseat & Vinnicius Gomes
