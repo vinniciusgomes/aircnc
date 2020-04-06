@@ -1,4 +1,4 @@
-const Spot = require("../models/Spot.js");
+const Spot = require('../models/Spot');
 
 module.exports = {
   async show(req, res) {
@@ -8,4 +8,4 @@ module.exports = {
 
     return res.json(spots);
   }
-};
+}
